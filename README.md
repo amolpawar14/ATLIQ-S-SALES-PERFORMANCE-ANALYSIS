@@ -22,11 +22,11 @@ In this project, I delved deep into AtliQ Technologies Hardware’s sales data f
 
 ### AtliQ's Fiscal Year
 
-* AtliQ Technology's Fiscal Year starts in September and ends August
+AtliQ Technology's Fiscal Year starts in September and ends August
 
 ### Data Visualization 
 
-* I built a clear and interactive report to simplify the communication of key metrics to stakeholders, ensuring they could make quick, data-driven decisions.
+ I built a clear and interactive report to simplify the communication of key metrics to stakeholders, ensuring they could make quick, data-driven decisions.
 
 ### Key highlights of the project
-* Gained hands-on experience with real-world data from AtliQ Technologies. Detailed and actionable insights through meticulously crafted reports. Utilization of advanced Excel functionalities to meet business analytics needs.
+Gained hands-on experience with real-world data from AtliQ Technologies. Detailed and actionable insights through meticulously crafted reports. Utilization of advanced Excel functionalities to meet business analytics needs.

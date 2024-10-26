@@ -22,7 +22,7 @@ In this project, I delved deep into AtliQ Technologies Hardware’s sales data f
 
 ### AtliQ's Fiscal Year
 
-AtliQ Technology's Fiscal Year starts in September and ends August
+AtliQ Technology's Fiscal Year starts in September and ends in August
 
 ### Data Visualization 
 

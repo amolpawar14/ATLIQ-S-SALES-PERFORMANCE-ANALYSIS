@@ -14,4 +14,10 @@ In this project, I delved deep into AtliQ Technologies Hardware’s sales data f
 
 ### Tools & Technique's Used
 
-** MS Excel : The primary tool used for data analysis and report creation.
+* MS Excel : The primary tool used for data analysis and report creation.
+*🔹Pivot Tables: Used for summarizing, analyzing, exploring, and presenting data.
+*🔹Power Query: Utilized for data connection and transformation.
+*🔹PowerPivot: Enhanced data analysis and model creation.
+*🔹Data Modeling using DAX Formulas: Implemented for creating complex data models and calculations.
+
+
